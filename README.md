@@ -1,1 +1,1 @@
-# qchack
+# QCHack
